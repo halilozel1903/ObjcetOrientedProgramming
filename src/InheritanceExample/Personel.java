@@ -2,6 +2,8 @@ package InheritanceExample;
 
 public class Personel {
 
+   // Override : bir üst sınıftaki metotları kullanıp değiştirmek(ezmek) anlamına gelir.
+
     private String isim;
     private String soyisim;
     private int yas;
@@ -57,5 +59,11 @@ public class Personel {
     public String getKimlikBilgileri(){
 
         return "Kimlik bilgileri : İsmi : "+isim+" Soyisim : "+soyisim+" Yaş :"+yas;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Kimlik bilgileri To String : İsmi : "+isim+" Soyisim : "+soyisim+" Yaş :"+yas;
     }
 }
