@@ -1,4 +1,4 @@
-package InheritanceExample;
+package InheritanceExample3;
 
 public class Personel {
 
