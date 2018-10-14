@@ -14,7 +14,7 @@ public class Main {
 
         System.out.println("-------------------------------------");
 
-        SagliklaBurger sg=new SagliklaBurger("Beyaz",5.50);
+        SagliklaBurger sg = new SagliklaBurger("Beyaz",5.50);
         sg.ekleIlaveUrun1("Patates Kızartması",3.00);
         sg.ekleIlaveUrun2("Kola",3.90);
         sg.ekleIlaveUrun3("Sos",1.00);
@@ -22,6 +22,12 @@ public class Main {
         sg.ekleSaglikliUrun1("Ton Balığı",2.00);
         sg.ekleSaglikliUrun2("Domates",3.00);
         System.out.println("Toplam Tutar : "+sg.hamburgerBilgileri());
+
+        System.out.println("-------------------------------------");
+
+        BabaHamburger bg = new BabaHamburger();
+        bg.ekleIlaveUrun1("Salatalik",1.00);
+        System.out.println("Toplam Tutar : "+bg.hamburgerBilgileri());
 
     }
 

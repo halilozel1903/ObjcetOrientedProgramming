@@ -113,7 +113,7 @@ public class Hamburger {
             System.out.println("İlave Ürün : "+this.ilaveUrunAdi2+" Ücreti :"+this.ilaveUrunUcreti2);
         }
 
-        if (this.ilaveUrunAdi1 != null){
+        if (this.ilaveUrunAdi3 != null){
 
             toplamUcret += this.ilaveUrunUcreti3;
             System.out.println("İlave Ürün : "+this.ilaveUrunAdi3+" Ücreti :"+this.ilaveUrunUcreti3);

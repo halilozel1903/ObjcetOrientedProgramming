@@ -37,13 +37,13 @@ public class SagliklaBurger extends Hamburger{
         if (this.ilaveSaglikliUrunAdi1 != null){
 
             toplamUcret +=ilaveSaglikliUrunUcreti1;
-            System.out.println("İlave Sağlıklı Burger 1 : "+this.ilaveSaglikliUrunAdi1+"Fiyatı : "+this.ilaveSaglikliUrunUcreti1);
+            System.out.println("İlave Sağlıklı Ürün 1 : "+this.ilaveSaglikliUrunAdi1+"Fiyatı : "+this.ilaveSaglikliUrunUcreti1);
         }
 
         if (this.ilaveSaglikliUrunAdi2 != null){
 
             toplamUcret +=ilaveSaglikliUrunUcreti2;
-            System.out.println("İlave Sağlıklı Burger 2 : "+this.ilaveSaglikliUrunAdi2+"Fiyatı : "+this.ilaveSaglikliUrunUcreti2);
+            System.out.println("İlave Sağlıklı Ürün 2 : "+this.ilaveSaglikliUrunAdi2+"Fiyatı : "+this.ilaveSaglikliUrunUcreti2);
         }
 
         return toplamUcret;
