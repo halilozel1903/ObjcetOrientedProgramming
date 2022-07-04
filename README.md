@@ -1,11 +1,9 @@
 # Objcet Oriented Programming 
 
-Java ile geliştirilen Nesne Yönelimli Programlama Projesidir.
+It is an Object Oriented Programming Project developed with Java.
 
-<br>
 
-## Konular 
-
+## Contents 
 - [Composition](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Composition)
 - [Constructor](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Constructor)
 - [Inheritance](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Inheritance)
