@@ -1,6 +1,6 @@
 # Objcet Oriented Programming 
 
-It is an Object Oriented Programming Project developed with Java.
+It's an Object Oriented Programming (OOP) Project developed with Java.
 
 
 ## Contents 
