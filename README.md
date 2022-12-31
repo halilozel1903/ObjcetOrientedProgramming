@@ -1,9 +1,9 @@
-# Objcet Oriented Programming 
+# Objcet Oriented Programming ⚔️
 
 It's an Object Oriented Programming (OOP) Project developed with Java.
 
 
-## Contents 
+## Contents 📝
 - [Composition](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Composition)
 - [Constructor](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Constructor)
 - [Inheritance](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Inheritance)
