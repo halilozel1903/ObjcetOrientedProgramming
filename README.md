@@ -1,6 +1,6 @@
 # Objcet Oriented Programming ⚔️
 
-It's an Object Oriented Programming (OOP) Project developed with Java.
+It's an Object Oriented Programming (OOP) Project developed with `Java`.
 
 ## Contents 📝
 - [Composition](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Composition)
