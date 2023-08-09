@@ -2,7 +2,6 @@
 
 It's an Object Oriented Programming (OOP) Project developed with Java.
 
-
 ## Contents 📝
 - [Composition](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Composition)
 - [Constructor](https://github.com/halilozel1903/ObjcetOrientedProgramming/tree/master/src/Constructor)
